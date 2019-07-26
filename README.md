@@ -8,4 +8,10 @@ Welcome to the official absolute zero discord bot docs!
 
 Join our [official support server](https://discord.gg/vWUr5W6) or create an issue on the issue github section!
 
+```
+Shop price list:
+1. Premium: 5000 coins
+2. Premium trail: free
+```
+
 This is still creating so wait for it <3
