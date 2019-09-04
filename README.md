@@ -7,7 +7,3 @@
 Welcome to the official absolute zero discord bot docs!
 
 Join our [official support server](https://discord.gg/vWUr5W6) or create an issue on the issue github section!
-
-
-
-This is still creating so wait for it <3
